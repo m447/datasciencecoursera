@@ -1,4 +1,4 @@
-# Getting_and_Cleaning_Data_Project
+# Getting and Cleaning Data Project
 
 ## Project purpose
 
@@ -21,7 +21,7 @@ The information about how the experiment conducted and how the original data col
 - "Average.txt" is a tidy dataset that contains mean of each measurement for each activity and each subject.  
 - "README.md" is the file you are reading.
 
-## Ideas behind `run_analysis.R`
+## Steps in `run_analysis.R`
 
 ### 1. Merge the training and the test sets to create one data set.
 
